@@ -34,11 +34,11 @@ Users should be able to:
 
 ### 🖼️ Screenshot
 
-#### Desktop
+#### 💻 Desktop
 
 ![Desktop](design/desktop-design.jpg)
 
-#### Mobile
+#### 📱 Mobile
 
 ![Desktop](design/mobile-design.jpg)
 
