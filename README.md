@@ -36,11 +36,11 @@ Users should be able to:
 
 #### Desktop
 
-![Desktop](design\desktop-design.jpg)
+![Desktop](design/desktop-design.jpg)
 
 #### Mobile
 
-![Desktop](design\mobile-design.jpg)
+![Desktop](design/mobile-design.jpg)
 
 ---
 
