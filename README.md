@@ -46,8 +46,8 @@ Users should be able to:
 
 ### 🔗 Links
 
-- 💻 FrontEnd URL: [FrontEnd Site](https://your-solution-url.com)
-- 🌍 Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- 💻 FrontEnd URL: [FrontEnd Site](https://www.frontendmentor.io/solutions/single-price-grid-component-ZKqwL3NmFu)
+- 🌍 Live Site URL: [Add live site URL here](https://youhad08.github.io/Single-Price-Grid-Component/)
 
 ---
 
@@ -86,8 +86,8 @@ Here’s a small code snippet I’m proud of:
 
 ### 👨‍💻 Author
 
-- Frontend Mentor - [@yourusername](https://your-solution-url.com)
-- Twitter - [@yourusername](https://your-solution-url.com)
+- Frontend Mentor - [@YOUHAD08](https://www.frontendmentor.io/profile/YOUHAD08)
+- Twitter - [@YouhadAyoub]([https://your-solution-url.com](https://x.com/YouhadAyoub))
 
 ### 🙏 Acknowledgments
 
