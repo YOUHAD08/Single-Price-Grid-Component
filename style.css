@@ -22,7 +22,7 @@ body {
 .container {
   max-width: 700px;
   margin: auto;
-  padding: 0 2rem;
+  padding: 2rem;
 }
 #price-card {
   min-height: 100vh;
@@ -94,6 +94,7 @@ body {
   font-size: 1rem;
   font-weight: 300;
   color: var(--teal-100);
+  opacity: 0.75;
 }
 
 .col-1 > p {
@@ -111,6 +112,7 @@ body {
   font-size: 1rem;
   font-weight: 700;
   cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 .col-2 {
@@ -133,4 +135,19 @@ body {
 }
 .col-2 ul li {
   margin-bottom: 0.1rem;
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 5rem 2rem;
+  }
+  .row {
+    grid-template-columns: 1fr;
+  }
+  .col-1 {
+    border-bottom-left-radius: 0px;
+  }
+  .col-2 {
+    border-bottom-left-radius: 10px;
+  }
 }
